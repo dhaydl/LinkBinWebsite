@@ -22,7 +22,7 @@ enable_smart_app_banner                   : true                                
 # Information About Yourself
 your_name                                 : David Haydl                            
 your_link                                 : https://twitter.com/DavidHaydl                     
-your_city                                 : Graz                                
+your_city                                 : Graz🇦🇹                              
 email_address                             : david.haydl@gmail.com
 facebook_username                         :                                          
 instagram_username                        : david_h93
@@ -34,19 +34,15 @@ youtube_username                          :
 
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
-
   - title                                 : Save links and reference them later
     description                           : Save links manually, via the iOS and iPadOS share extension or the Safari browser extension on Mac.
     fontawesome_icon_name                 : link
-    
   - title                                 : Organize everything with labels
     description                           : To keep everything neat and tidy, LinkBin allows you to organize your links with labels.
     fontawesome_icon_name                 : tag
-
   - title                                 : iCloud sync
     description                           : Sync all links across all of your devices, thanks to iCloud.
     fontawesome_icon_name                 : cloud
-
   - title                                 : Multiple app icons
     description                           : Customize the app with an app icon of your desired style.
     fontawesome_icon_name                 : scribble

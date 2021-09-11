@@ -17,7 +17,7 @@ Everything you save in LinkBin is written to your device's local storage. Data i
 
 ## Typeform
 
-In order to make it possible to report bugs, we use the service Typeform. You can find their privacy policy [here](https://admin.typeform.com/to/dwk6gt).
+In order to make it possible for users to report bugs, we use the service Typeform. You can find their privacy policy [here](https://admin.typeform.com/to/dwk6gt).
 
 ## Contact
 

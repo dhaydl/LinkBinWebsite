@@ -45,7 +45,7 @@ features                                  :
     fontawesome_icon_name                 : cloud
   - title                                 : Multiple app icons
     description                           : Customize the app with an app icon of your desired style.
-    fontawesome_icon_name                 : scribble
+    fontawesome_icon_name                 : drafting-compass
 
 
 

@@ -43,6 +43,12 @@ features                                  :
   - title                                 : iCloud sync
     description                           : Sync all links across all of your devices, thanks to iCloud.
     fontawesome_icon_name                 : cloud
+  - title                                 : Send links to other apps easily
+    description                           : Want to process a link in an other app further? No problem, just use the integrated share sheet on iOS or the share menu on macOS.
+    fontawesome_icon_name                 : share-square
+  - title                                 : Supports Shortcuts
+    description                           : Automate your link workflow with the help of the Shortcuts app.
+    fontawesome_icon_name                 : robot
   - title                                 : Multiple app icons
     description                           : Customize the app with an app icon of your desired style.
     fontawesome_icon_name                 : drafting-compass

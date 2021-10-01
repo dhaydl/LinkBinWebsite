@@ -4,6 +4,16 @@ title: What's New
 include_in_header: true
 ---
 
+# **Version 1.0.2**
+This new version also comes with some bug fixes, as well as some improvements and two new features.
+
+- The share extension on iOS now displays a little feedback that indicates if the shared link is saved successfully.
+- You can now rename labels and change their color.
+- On macOS, the button for the privacy policy pointed to a wrong URL. This is now fixed.
+- Save links from the clipboard by pressing CMD + V on an iPad or a Mac. When you have a label open, it will get attached automatically.
+- It is now possible to create a new label from the view where you can assign one to a link.
+- Adjusted the appearance of the buttons for creating a label.
+
 # **Version 1.0.1**
 Thank you for using LinkBin and giving feedback. I really appreciate your support. This version contains bug fixes and some minor improvements and additions.
 

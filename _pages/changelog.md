@@ -7,12 +7,12 @@ include_in_header: true
 # Version 1
 
 ## **Version 1.0.3**
-- Newly created labels that are attached to a link did not get synced to iCloud in some cases. This is now fixed.
+- Newly created labels that are attached to a link afterwards did not get synced to iCloud in some cases. This is now fixed.
 - The iCloud account status is now determined at every startup to avoid unwanted behaviour.
 - Textfields are now immediately focused when they appear.
 - On macOS, you were not able to create a new label when you wanted to assign it to a link. This is now possible.
 - On iOS and iPadOS, there is now a new button that allows to save a link from the clipboard. This is similar to the CMD+V feature that was introduced in the last version.
-- Editing and deleting labels was not possible due to a bug introduced in the last version. This is now elliminated.
+- Editing and deleting labels on macOS was not possible due to a bug introduced in the last version. This is now elliminated.
 
 ## **Version 1.0.2**
 This new version also comes with some bug fixes, as well as some improvements and two new features.

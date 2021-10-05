@@ -6,6 +6,10 @@ include_in_header: true
 
 # Version 1
 
+## **Version 1.0.4**
+- Implemented a lot of under the hood improvements for iCloud sync. For example, the app don't crashes anymore when you agree to new terms and conditions.
+- You can now display archived items in the main lists via a new toggle in settings. Archived links show up with an archivebox icon, so that they are visually separated from other entries.
+
 ## **Version 1.0.3**
 - Newly created labels that are attached to a link afterwards did not get synced to iCloud in some cases. This is now fixed.
 - The iCloud account status is now determined at every startup to avoid unwanted behaviour.

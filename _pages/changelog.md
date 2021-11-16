@@ -6,6 +6,23 @@ include_in_header: true
 
 # Version 1
 
+## **Version 1.1.0**
+Okay, this is a big one. Thank you for your patience until this update, I really appreciate it.
+
+- LinkBin now supports Apple's Quick Note feature. Open a link with the built-in browser and you'll be able to deeplink to that website and add notes. Requires iOS 15, iPadOS 15 or macOS 12 Monterey or later.
+- Handoff support is here. Visit a link with the built-in browser and continue on another device where you left off.
+- The macOS version also has an in-app browser now. This can be optionally deactivated from the app's settings.
+- New Shortcuts action: Copy the newest link into the system clipboard.
+- This update also comes with quite a few widgets. Place them on your homescreen and interact with your links even quicker.
+- Need to copy a link in HTML or a similar format, for example for WordPress? No problem, you can now do this in LinkBin with just a few clicks.
+- A confirmation dialog does not appear anymore when you swipe to delete a link or a label.
+- All Shortcuts actions from iOS and iPadOS are now available on your Mac as well. Requires macOS 12 Monterey or later.
+- You now have the ability to edit a link's title. This is especially useful when they all have the same generated title, like Google Drive links.
+- Ever wanted to explore more of LinkBin's features? I got you! There is now a section in settings with some help articles which should give you a better idea about the features the app has to offer.
+- Added a new alternate app icon. Requires a LinkBin Club purchase.
+
+As always, please leave bug reports and feature requests!
+
 ## **Version 1.0.4**
 - Implemented a lot of under the hood improvements for iCloud sync. For example, the app don't crashes anymore when you agree to new terms and conditions.
 - You can now display archived items in the main lists via a new toggle in settings. Archived links show up with an archivebox icon, so that they are visually separated from other entries.

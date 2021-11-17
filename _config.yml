@@ -44,7 +44,7 @@ features                                  :
     description                           : Customize the app with an app icon of your desired style.
     fontawesome_icon_name                 : drafting-compass
   - title                                 : Widgets
-    description                           : Interact with your links through widgets on your homescreen or in the notification center on macOS
+    description                           : Interact with your links through widgets on your homescreen or in the notification center on macOS.
     fontawesome_icon_name                 : square
   - title                                 : Copy links as HTML, Markdown or Rich-Text
     description                           : Save one or several links as HTML, Markdown or Rich-Text with just a few clicks. This is for example perfect for inserting links into a WordPress article.

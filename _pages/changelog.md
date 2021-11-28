@@ -6,6 +6,13 @@ include_in_header: true
 
 # Version 1
 
+## **Version 1.1.1**
+
+- You now have the ability to open a link in the device's default browser via the context menu.
+- Shortcuts actions and widgets can now be configured to query archived links and all links. The latter was added so that you don't have to recreate a widget or an action when you want to deselect a chosen label.
+- The list with all labels that appears when you configure a Shortcuts action or a widget now comes with icons for a better visual appearance.
+- LinkBin now supports Siri Suggestions.
+
 ## **Version 1.1.0**
 Okay, this is a big one. Thank you for your patience until this update, I really appreciate it.
 

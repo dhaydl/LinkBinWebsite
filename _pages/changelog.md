@@ -6,6 +6,14 @@ include_in_header: true
 
 # Version 1
 
+## **Version 1.1.2**
+
+- Fixed a bug where saving a link through the Safari extension on macOS would result in a crash.
+- Fixed a German translation in an info pop-up.
+- Added the ability to save a link or a label by pressing the return key on the keyboard.
+- The in-app browser is macOS is now scalable.
+- Added the possibility to edit a link's URL after it has been saved.
+
 ## **Version 1.1.1**
 
 - You now have the ability to open a link in the device's default browser via the context menu.

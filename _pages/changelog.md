@@ -6,6 +6,16 @@ include_in_header: true
 
 # Version 1
 
+## **Version 1.1.3**
+
+- Restructured some source code in order to allow me to implement new feature more easily.
+- Deactived the context menu when multiple links are selected since the actions only support one link for now.
+- The button to reset the formatting of links in the copy view is now working.
+- You can now choose a label for a link from the context menu.
+- The view for editing a link or copying links does not crash anymore on macOS.
+- Added a Shortcuts action to open a saved link in LinkBin's browser view.
+- Added a Shortcuts action to create a label.
+
 ## **Version 1.1.2**
 
 - Fixed a bug where saving a link through the Safari extension on macOS would result in a crash.

@@ -13,6 +13,7 @@ include_in_header: true
 - The button to reset the formatting of links in the copy view is now working.
 - You can now choose a label for a link from the context menu.
 - The view for editing a link or copying links does not crash anymore on macOS.
+- Fixed a bug where pasting a link from the pasteboard would result in a crash on macOS.
 - Added a Shortcuts action to open a saved link in LinkBin's browser view.
 - Added a Shortcuts action to create a label.
 

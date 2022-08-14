@@ -6,6 +6,21 @@ include_in_header: true
 
 # Version 1
 
+## **Version 1.2.0**
+
+LinkBin is back! After a short break, this app will receive updates on a regular basis again. With this version, some exciting new features and stability improvements were implemented.
+
+- There is a new Safari extension on iOS and macOS. Save the currently opened web page as a link in LinkBin with just a few clicks. You can optionally attach a label as well. iOS 15 is required for this.
+- On iOS, LinkBin now has an "Add to LinkBin" action extension which can be found in the share sheet. This allows you to add a label before saving, compared to the already existing Share extension.
+- Do you like LinkBin? You can now post a rating on the App Store via the settings screens.
+- The manuals are now placed on the start page on iOS and in the Help entry of the menu bar on macOS. Also, some of them have been rewritten and received some screenshots for additional clarity.
+- There is a new default view: Favorites. Star a link via the context menu and it will land in this separate area.
+- The link lists received quite a performance boost under the hood. Especially on macOS, scrolling should be faster, thanks to the improvements that were made.
+- The context menu is now able to handle all selected links. Previously, only one link at a time could be processed through the context menu.
+- On iOS, the share extension should operate a bit faster with this update.
+
+I really hope that you like these changes! Please file any feedback and bug reports via the app's settings.
+
 ## **Version 1.1.3**
 
 - Restructured some source code in order to allow me to implement new feature more easily.

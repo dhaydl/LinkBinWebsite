@@ -26,7 +26,7 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
   - title                                 : Save links and reference them later
-    description                           : Save links manually, via the iOS and iPadOS share extension or the Safari browser extension on Mac.
+    description                           : Save links manually, via the iOS and iPadOS share or action extension or the Safari browser extension on iPhone, iPad and Mac.
     fontawesome_icon_name                 : link
   - title                                 : Organize everything with labels
     description                           : To keep everything neat and tidy, LinkBin allows you to organize your links with labels.

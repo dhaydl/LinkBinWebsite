@@ -6,6 +6,10 @@ include_in_header: true
 
 # Version 1
 
+## **Version 1.2.1**
+
+This update fixes an issue where the new Safari extension would not show up in the Safari's settings on iOS, iPadOS and macOS.
+
 ## **Version 1.2.0**
 
 LinkBin is back! After a short break, this app will receive updates on a regular basis again. With this version, some exciting new features and stability improvements were implemented.
